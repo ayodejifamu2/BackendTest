@@ -201,13 +201,5 @@ graph TB
    dotnet run
    ```
 
-4. **Access Swagger UI**: http://localhost:5000/swagger
+4. **Access Swagger UI**: https://localhost:7251/swagger
 
-## Architecture Benefits
-
-- **Separation of Concerns**: Clear boundaries between layers
-- **Testability**: Easy to unit test business logic
-- **Scalability**: Message queue enables async processing
-- **Maintainability**: Clean, well-structured codebase
-- **Flexibility**: Easy to swap implementations (e.g., different databases)
-- **Documentation**: Auto-generated API documentation
